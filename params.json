@@ -1,0 +1,6 @@
+{
+  "name": "Laravel-auditing-doc",
+  "tagline": "Laravel Auditing Documentation",
+  "body": "\r\n# Laravel Auditing Documentation\r\n\r\n- Setup\r\n    - [Installation](installation.md)\r\n- Getting Started\r\n    - [Getting Logs](getting-logs.md)\r\n    - [Configuration](configuration.md)\r\n- The Basic\r\n    - [Introduction](introduction.md)\r\n    - [Examples](examples.md)\r\n- Advanced Options\r\n    - [Customizing](customizing.md)\r\n    - [Audit Events](events.md)\r\n    - [Configuration](configuration.md)\r\n\r\n\r\n> If you are unable to access the site, please send an email to Antério Vieira at <a href=\"mailto:anteriovieira@gmail.com\">anteriovieira@gmail.com</a>.\r\n\r\n## Contributing\r\n\r\nContributions are welcomed; to keep things organized, all bugs and requests should be opened on github issues tab for the main project in the [owen-it/laravel-auditing/issues](https://github.com/owen-it/laravel-auditing/issues).\r\n\r\nAll pull requests intended for the next release of Laravel Auditing should be submitted to the master branch.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
